@@ -12,9 +12,10 @@ Curso de programación 2.  2019 periodo 3.
 Si ya se ha instalado Anaconda, por defecto se instala "conda".  Esto significa que es posible utilizar este procedimiento:
 * Abrir una terminar de anaconda (Anaconda prompt).  Allí en la terminal, digitar ...
 
-![Anaconda Prompt](/Images/prompt.png)
+![Anaconda Prompt](/Images/prompt.png)  ![Anaconda Prompt install](/Images/prompt_install.png)
 
-pip install nltk
+conda install nltk
+pip install nltk (si no se hace por conda, si no por pip)
 para instalar nltk. Este procedimiento descarga el paquete y a continuación lo instala.
 
 .
