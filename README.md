@@ -1,5 +1,5 @@
 # Prog2_2019_3
-###Modalidad especial
+## Modalidad especial
 
 Curso de programación 2.  2019 periodo 3.
 
