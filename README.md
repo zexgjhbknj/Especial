@@ -23,6 +23,15 @@ para instalar nltk. Este procedimiento descarga el paquete y a continuación lo 
 
 2.2. Descargar el paquete y luego instalarlo.
 .
+
 .
+
 .
+
+3. Utilizar un IDE como entorno de programación
+3.1. Sublime text. https://www.sublimetext.com/3 (descargar e instalar el programa)
+3.2. Spyder. Ya viene con Anaconda.  **Es uno de los recomendados**
+3.3. Jupyter Notebook.  Corre online (Try Classic Notebook)
+3.4. Y otros como ... Atom, Pycharm, Netbeans, Eclipse
+
 
